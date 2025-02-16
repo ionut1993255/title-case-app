@@ -12,7 +12,7 @@ the buttons as well.
 
 I used "event delegation" technique which is popular in JS ES6.
 
-Check out the custom favicon *wink *wink
+Check out the custom favicon 😉
 
 Here you can see my project in action: https://title-case-app.netlify.app/
 
